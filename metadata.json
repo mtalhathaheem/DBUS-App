@@ -1,0 +1,6 @@
+{
+  "name": "DBUS",
+  "description": "Full-stack cloud school app for Pakistan with multi-role access, bilingual English/Urdu support, permanent student ID management, and custom themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
